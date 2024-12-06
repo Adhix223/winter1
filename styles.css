@@ -1,0 +1,11 @@
+/* Resetting margins and making the canvas full-screen */
+body {
+    margin: 0;
+    overflow: hidden;
+    background: linear-gradient(to bottom, #003366, #ffffff); /* Winter sky */
+  }
+  
+  canvas {
+    display: block;
+  }
+  
